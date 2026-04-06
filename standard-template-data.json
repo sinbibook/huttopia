@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-04-06T08:34:43.666Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-04-06T08:41:25.051Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -1896,7 +1896,102 @@
                 ],
                 "description": "홍천 휴토피아 숙소에 대해"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "69db0ff8-3a5f-4352-82ec-a8da0e07bc78",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464554668-ddplvds2fap.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06"
+                    },
+                    {
+                      "id": "f8a374c3-1428-478c-8c96-b118986de297",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464554669-byb64exa46m.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06"
+                    },
+                    {
+                      "id": "5b19f4b7-21a8-4fe1-9312-a20c89381aa5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464554669-zlhk6hcc9b8.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06"
+                    },
+                    {
+                      "id": "b9118a31-ec44-43f2-a69f-609104f661f0",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-o1opkpve6mc.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06"
+                    },
+                    {
+                      "id": "5a117a59-a89b-4d65-8421-3c112465d5b4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-bpknpgjycw4.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06"
+                    }
+                  ],
+                  "blockId": "83db92c7-d1fd-432b-a83a-cb0abebfba06",
+                  "description": "사계절 내내 이용 가능한 자연 속 휴양 공간 홍천 휴토피아\n홍천강의 푸른 물줄기와 산새, 팔봉산의 수려한 풍경이 어우러져\n머무는 것만으로도 마음의 안정을 느낄 수 있습니다.\n친구, 연인, 가족과 함께 특별한 휴식과 추억을 만들어보세요."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "9299982d-2c8c-49ff-9719-6805f4df2915",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-u2aftnyr06f.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72"
+                    },
+                    {
+                      "id": "b000a649-878d-4f8e-9c16-a829e694fb33",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-3gee0an1i0g.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72"
+                    },
+                    {
+                      "id": "e2543f4e-c277-4d3c-9d3d-26b5ce120bac",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-hear7z869oh.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72"
+                    },
+                    {
+                      "id": "06401a85-474c-4a6a-9a5c-24729d49ee73",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-u6lk95o3vf.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72"
+                    },
+                    {
+                      "id": "8dc593b8-e061-4037-bf13-cf26b251f953",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_about/1775464830439-mceb1u99nw.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72"
+                    }
+                  ],
+                  "blockId": "6fd23c9b-a11c-4a7f-aaaf-2aaa3b89fb72",
+                  "description": "홍천강을 한눈에 담을 수 있는 리버뷰로 자연의 여유를 느껴보세요.\n개별 바베큐부터 야외 수영장, 불멍까지 다양한 부대시설이 준비되어 있습니다.\n머무시는 동안 취향에 맞는 휴식을 즐길 수 있습니다."
+                }
+              ]
             }
           ]
         },
@@ -5646,7 +5741,7 @@
             {
               "id": "3ffd9a3d-1e03-467c-8152-9a4ef82d5b01",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775457911221-2qbg0q1rves.jpg",
-              "sortOrder": 102,
+              "sortOrder": 98,
               "description": "객실 내부",
               "isSelected": true,
               "blockId": "8a7c9954-c1b1-425b-92ee-0037cf96996e",
@@ -5655,7 +5750,7 @@
             {
               "id": "333c3b97-6687-47cc-905b-3686c4bd7e74",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775457911221-jgppw2d5ge.jpg",
-              "sortOrder": 103,
+              "sortOrder": 99,
               "description": "개별 테라스",
               "isSelected": true,
               "blockId": "8a7c9954-c1b1-425b-92ee-0037cf96996e",
@@ -5664,7 +5759,7 @@
             {
               "id": "46400223-ec3d-4d9f-ae34-77a246fe80b1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775457911221-e17wjfdozee.jpg",
-              "sortOrder": 104,
+              "sortOrder": 100,
               "description": "개별 바베큐장",
               "isSelected": true,
               "blockId": "8a7c9954-c1b1-425b-92ee-0037cf96996e",
@@ -5673,7 +5768,7 @@
             {
               "id": "b88ab241-c193-469b-88eb-ae2dc5b55c0a",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775457911221-too45v8wg1.jpg",
-              "sortOrder": 105,
+              "sortOrder": 101,
               "description": "리버뷰",
               "isSelected": true,
               "blockId": "8a7c9954-c1b1-425b-92ee-0037cf96996e",
@@ -5777,7 +5872,7 @@
             {
               "id": "111bb97c-1910-45b1-ac6c-07c253ead739",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775458015652-wmwf4hw7gi.jpg",
-              "sortOrder": 98,
+              "sortOrder": 102,
               "description": "객실 내부",
               "isSelected": true,
               "blockId": "83872179-2212-4bbc-952b-7fa5fca18228",
@@ -5786,7 +5881,7 @@
             {
               "id": "cadbc4a8-fc8e-4723-b3a5-266c58e900f9",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775458015652-cguto622xo8.jpg",
-              "sortOrder": 99,
+              "sortOrder": 103,
               "description": "개별 테라스",
               "isSelected": true,
               "blockId": "83872179-2212-4bbc-952b-7fa5fca18228",
@@ -5795,7 +5890,7 @@
             {
               "id": "2bf9b4c2-0be2-4617-bf28-0ff7fa229db1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775458015652-83mxsurhna6.jpg",
-              "sortOrder": 100,
+              "sortOrder": 104,
               "description": "개별 바베큐장",
               "isSelected": true,
               "blockId": "83872179-2212-4bbc-952b-7fa5fca18228",
@@ -5804,7 +5899,7 @@
             {
               "id": "5ebdbaf2-d8b0-46a3-8d54-2f96387c824f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/roomtype_exterior/1775458015652-b3togzsp91k.jpg",
-              "sortOrder": 101,
+              "sortOrder": 105,
               "description": "리버뷰",
               "isSelected": true,
               "blockId": "83872179-2212-4bbc-952b-7fa5fca18228",
