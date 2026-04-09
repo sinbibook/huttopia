@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-04-08T05:52:29.839Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-04-09T07:49:16.497Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -6248,7 +6248,6 @@
           ]
         }
       ]
-    },
-    "id": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
+    }
   }
 }
