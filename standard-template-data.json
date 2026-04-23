@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-04-23T00:40:57.926Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-04-23T01:39:09.464Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -491,7 +491,7 @@
     ],
     "nameEn": "Hongcheon Huttopia Glamping",
     "domain": "huttopia.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11609",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/11609/calendar_list/",
     "ybsId": "79971"
   },
   "rooms": [
