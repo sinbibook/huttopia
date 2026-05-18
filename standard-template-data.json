@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-04-27T08:14:41.488Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-05-18T04:55:29.448635448Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -32,7 +32,7 @@
     "nearbyAttractions": [
       "산"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "산뷰",
       "힐링",
@@ -51,7 +51,8 @@
       "businessEmail": "123@naver.com",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -77,32 +78,36 @@
         "displayOrder": 0,
         "images": [
           {
+            "id": "a742b371-c050-4a8a-ae56-f67c0f55edf5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac8ce3ba-5f1b-4976-a120-e76f5a80ace7/main/1775458412565-oy9ik7nrium.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "328f1209-2dbd-4a59-939a-337eace73e28",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac8ce3ba-5f1b-4976-a120-e76f5a80ace7/main/1775458412565-5vtm05q2utb.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "e47ae09b-f6c0-4e50-93ad-b8db186ada3a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac8ce3ba-5f1b-4976-a120-e76f5a80ace7/main/1775458412565-cog2r3s5egg.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "834b359d-84ad-41ff-9cf6-eb9302eb7338",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac8ce3ba-5f1b-4976-a120-e76f5a80ace7/main/1775458412565-n03rfczme5j.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "a742b371-c050-4a8a-ae56-f67c0f55edf5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac8ce3ba-5f1b-4976-a120-e76f5a80ace7/main/1775458412565-oy9ik7nrium.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -114,60 +119,68 @@
         "displayOrder": 1,
         "images": [
           {
-            "id": "5d2cfef6-de24-4ac2-bb86-a0543d3edb51",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-izjbegd454i.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "9777c96a-2dc0-4610-a4e6-5639ad041573",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-7j573ete70l.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "1fbbf59c-3ddc-4b0f-af7b-12bcf6ee3e7f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-v7j8477y1c.jpg",
-            "sortOrder": 3,
+            "id": "5d2cfef6-de24-4ac2-bb86-a0543d3edb51",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-izjbegd454i.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b518df33-772e-4f17-87da-fba4c6e3b80c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-lwl5b9daqn.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "3c31d769-ad2f-48d8-89cf-7e7722995c46",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-acr49dc33d5.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "06bfa84b-b639-482c-a034-67e1ce2109a5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414425-34577kqoqwf.jpg",
-            "sortOrder": 7,
+            "id": "1fbbf59c-3ddc-4b0f-af7b-12bcf6ee3e7f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-v7j8477y1c.jpg",
+            "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "4af51a58-a968-4fdb-95ca-05cee2ee8113",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414425-e8kl7s7weto.jpg",
-            "sortOrder": 6,
+            "id": "b518df33-772e-4f17-87da-fba4c6e3b80c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-lwl5b9daqn.jpg",
+            "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "5e2df11c-36d0-4fa3-8ba8-0080a06f0eb7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414424-4b2exnx9uzc.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4af51a58-a968-4fdb-95ca-05cee2ee8113",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414425-e8kl7s7weto.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "06bfa84b-b639-482c-a034-67e1ce2109a5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/abb935ab-8d98-4db1-93de-b48240cefb70/main/1775458414425-34577kqoqwf.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -183,14 +196,16 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0672d280-0b4d-4dd8-a935-1c3fc7009e0e/main/1775458461298-m5ub2s1t8tb.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "fd4f2499-21bb-4d77-b424-6d585880bdb8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0672d280-0b4d-4dd8-a935-1c3fc7009e0e/main/1775458461298-uc7ypcl9hk9.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -206,28 +221,32 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-fqw9afmoh3.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "af3519fd-5fd2-4b86-b729-08b93b55c955",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-aj8wv5vttsv.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "c15c04b3-6f24-42ba-a5a2-4895c8f36d5d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-ohw4wtsszf.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "af3519fd-5fd2-4b86-b729-08b93b55c955",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-aj8wv5vttsv.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "d0b92159-5f8f-4128-b520-841fc369039d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-1u93tr44ie4.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -239,46 +258,52 @@
         "displayOrder": 5,
         "images": [
           {
+            "id": "a6dfde7e-021f-41eb-ade6-e8df66f3a631",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629695-ouhr9y9pyza.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "ba772d70-151c-4588-9f48-47b8c28cc513",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629695-mwuvn5i1lb.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "21cc7cdc-4630-4f97-94b3-df63a9cdb35b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-4mg434msp1u.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2bcae39a-8d1c-496c-aeca-2e0ffd13141b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-bxzg0aa1ki.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ac6c60ee-ce27-457c-b95b-d9bf6fca8b59",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-lm4r4klyppo.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2bcae39a-8d1c-496c-aeca-2e0ffd13141b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-bxzg0aa1ki.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "21cc7cdc-4630-4f97-94b3-df63a9cdb35b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-4mg434msp1u.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "5ec62fc2-b3f4-413b-8fd9-5f6132c552f0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629696-5m6czqukjw3.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "a6dfde7e-021f-41eb-ade6-e8df66f3a631",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/94b3eaff-05bb-4bec-89d6-e6ff281bc1c6/main/1775458629695-ouhr9y9pyza.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -290,39 +315,44 @@
         "displayOrder": 6,
         "images": [
           {
+            "id": "8ebaca03-8689-46dc-a49e-11b4bf5dc580",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654976-hahythdgcfc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "77affd59-e585-4cf8-a7ee-bd2dcb58028d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654976-hlbdnzqa0gv.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "11172f24-42a4-467a-a218-08bb427235e0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654976-rqi9aqupga.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "224c973b-dff2-468a-8197-b2ef9f4eafd8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654977-ne5xu921nrj.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8ebaca03-8689-46dc-a49e-11b4bf5dc580",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654976-hahythdgcfc.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "426a1f5d-cb77-48af-a66d-fd5ae6125f52",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb60c9cf-a48b-43cb-9826-3e4e4a38f005/main/1775458654977-rwdv9mgwhqb.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -382,131 +412,142 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/thumbnail/1776146586478-du8vkxhdnpc.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
+          {
+            "id": "82dec5db-f2f1-4836-a7da-7634477f05a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586479-6u2un02ljav.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "fcb98706-af26-4b98-bb04-62b78c02338a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586479-irgji8rw1e.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "82dec5db-f2f1-4836-a7da-7634477f05a9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586479-6u2un02ljav.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b793a9df-07ba-412d-a2fc-5f35542561cb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-0n3xzncql84.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "31f1d58c-9622-43fd-8a13-bdb40dc78836",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-u7cp99xq3q.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "5595ef6f-71eb-40e1-97f5-9fb2fbd03485",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-iqz9sctxam.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "a492c2e8-7433-4aab-9aad-a3919b9e6015",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586480-13vuftp9fn4c.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "daa97bb8-4414-41cc-96e1-81fd25752a6e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-w7uzwnwsgp8.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4ca0dc4b-6461-432a-be33-25bfafe549b9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-qeo9h08fjuo.jpg",
-            "sortOrder": 13,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "a1a4dbe7-77b7-4e86-a168-697bae9341fc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-g7fc4ww8955.jpg",
-            "sortOrder": 11,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2558514c-4a7d-47b9-98aa-adeb6b502dbf",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-xadphkemkan.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b08f147b-7802-425a-8b78-3b66c240b508",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-k2mkdvmasji.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4373b310-cc9d-4f0e-9da1-70b621c01312",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586480-jgitmiymua.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "e1ebbfe6-1599-48b1-a84b-ed1fff50b475",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586480-t7k9k5eyls.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4373b310-cc9d-4f0e-9da1-70b621c01312",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586480-jgitmiymua.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5595ef6f-71eb-40e1-97f5-9fb2fbd03485",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-iqz9sctxam.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b08f147b-7802-425a-8b78-3b66c240b508",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-k2mkdvmasji.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2558514c-4a7d-47b9-98aa-adeb6b502dbf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-xadphkemkan.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "daa97bb8-4414-41cc-96e1-81fd25752a6e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586672-w7uzwnwsgp8.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b793a9df-07ba-412d-a2fc-5f35542561cb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-0n3xzncql84.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "31f1d58c-9622-43fd-8a13-bdb40dc78836",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-u7cp99xq3q.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a1a4dbe7-77b7-4e86-a168-697bae9341fc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-g7fc4ww8955.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ca3fa098-fab8-4cdb-b619-4ee3c20e55af",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-xwk770yfuc9.jpg",
             "sortOrder": 12,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4ca0dc4b-6461-432a-be33-25bfafe549b9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44/exterior/1776146586673-qeo9h08fjuo.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ],
     "nameEn": "Hongcheon Huttopia Glamping",
     "domain": "huttopia.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/11609/calendar_list/",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/35452170",
     "ybsId": "79971"
   },
   "rooms": [
     {
       "id": "a6484df2-cf95-4833-9995-7d0606c63f7e",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "스페이스 캐빈 101호실 [입실16시/퇴실13시]",
-      "nameEn": "SpaceCabin101(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "usageGuide": "[스페이스 캐빈 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 장작(불멍) 이용불가\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 3인 이용 권장\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제)\n- 수영장 온수 이용시 현장결제 비용 : 50,000원 (2-3일전 미리 신청)",
       "group": "스페이스 캐빈 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -516,20 +557,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -550,32 +581,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-02T09:03:28.778Z",
-      "updatedAt": "2026-04-23T00:35:50.736Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 1
     },
     {
       "id": "a3a45cb3-fd74-4fc3-9c59-2367ce00f866",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "스페이스 캐빈 102호실 [입실16시/퇴실13시]",
-      "nameEn": "SpaceCabin102(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "usageGuide": "[스페이스 캐빈 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 장작(불멍) 이용불가\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 3인 이용 권장\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제)\n- 수영장 온수 이용시 현장결제 비용 : 50,000원 (2-3일전 미리 신청)",
       "group": "스페이스 캐빈 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -585,20 +618,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -619,32 +642,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-02T09:03:28.638Z",
-      "updatedAt": "2026-04-23T00:35:56.626Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 2
     },
     {
       "id": "c32090ca-efcd-4742-bcff-323f07e4f3ba",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "스페이스 캐빈 103호실 [입실16시/퇴실13시]",
-      "nameEn": "SpaceCabin103(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "usageGuide": "[스페이스 캐빈 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 장작(불멍) 이용불가\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 3인 이용 권장\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제)\n- 수영장 온수 이용시 현장결제 비용 : 50,000원 (2-3일전 미리 신청)",
       "group": "스페이스 캐빈 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -654,20 +679,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -688,32 +703,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-02T09:03:28.863Z",
-      "updatedAt": "2026-04-23T00:36:01.609Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 3
     },
     {
       "id": "2ebd8e6b-dee1-4d74-a171-90aa5b851ea2",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "스페이스 캐빈 104호실 [입실16시/퇴실13시]",
-      "nameEn": "SpaceCabin104(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "usageGuide": "[스페이스 캐빈 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 장작(불멍) 이용불가\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 3인 이용 권장\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제)\n- 수영장 온수 이용시 현장결제 비용 : 50,000원 (2-3일전 미리 신청)",
       "group": "스페이스 캐빈 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -723,20 +740,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -757,32 +764,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-02T09:03:28.760Z",
-      "updatedAt": "2026-04-23T00:36:06.914Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 4
     },
     {
       "id": "76a0e2c8-26ae-4d1f-8541-b42d7caa7087",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "스페이스 캐빈 105호실 [입실16시/퇴실13시]",
-      "nameEn": "SpaceCabin105(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐+개별수영장",
       "usageGuide": "[스페이스 캐빈 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 장작(불멍) 이용불가\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 3인 이용 권장\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제)\n- 수영장 온수 이용시 현장결제 비용 : 50,000원 (2-3일전 미리 신청)",
       "group": "스페이스 캐빈 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -792,20 +801,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -826,32 +825,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-02T09:03:28.759Z",
-      "updatedAt": "2026-04-23T00:36:12.439Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 5
     },
     {
       "id": "d8d8a2c3-4773-4571-9c6b-0e2adbd55774",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 6호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 6(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -861,20 +862,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -893,32 +884,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-02T09:03:28.885Z",
-      "updatedAt": "2026-04-23T00:36:48.853Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 6
     },
     {
       "id": "72183c55-5a42-4eb5-8809-65ae78e35f24",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 7호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 7(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -928,20 +921,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -960,32 +943,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-02T09:03:28.852Z",
-      "updatedAt": "2026-04-23T00:36:55.071Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 7
     },
     {
       "id": "4a2619d5-5e60-45b6-9155-3408594d0210",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 8호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 8(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -995,20 +980,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1027,32 +1002,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-02T09:03:28.988Z",
-      "updatedAt": "2026-04-23T00:37:00.224Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 8
     },
     {
       "id": "2dce6ba3-44fb-4395-bdb7-ead718a0d134",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 9호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 9(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1062,20 +1039,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1094,32 +1061,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-02T09:03:28.927Z",
-      "updatedAt": "2026-04-23T00:37:08.755Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 9
     },
     {
       "id": "ee736033-3f4b-4da4-bdbf-84029b577727",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 10호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 10(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1129,20 +1098,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1161,32 +1120,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-04-02T09:03:28.951Z",
-      "updatedAt": "2026-04-23T00:38:05.795Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 10
     },
     {
       "id": "af47232b-72d5-4405-9f8f-7633b28bf531",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 11호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 11(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1196,20 +1157,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1228,32 +1179,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-04-02T09:03:29.002Z",
-      "updatedAt": "2026-04-23T00:38:12.435Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 11
     },
     {
       "id": "d0d78033-d416-4e7e-8dfc-40871f53c9b5",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 12호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 12(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1263,20 +1216,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1295,32 +1238,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-04-02T09:03:28.889Z",
-      "updatedAt": "2026-04-23T00:38:20.928Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 12
     },
     {
       "id": "eea78bc8-dafd-4ab0-9eaf-343077988747",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 13호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 13(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1330,20 +1275,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1362,32 +1297,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 13,
-      "createdAt": "2026-04-02T09:03:28.930Z",
-      "updatedAt": "2026-04-23T00:38:27.895Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 13
     },
     {
       "id": "14996f96-61cb-46ae-a75a-e5d6e5ff53f4",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 14호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 14(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1397,20 +1334,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1429,32 +1356,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 14,
-      "createdAt": "2026-04-02T09:03:28.983Z",
-      "updatedAt": "2026-04-23T00:38:34.255Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 14
     },
     {
       "id": "19057e55-a9ff-47d6-8d54-fc278144ebb9",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 15호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 15(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1464,20 +1393,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1496,32 +1415,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 15,
-      "createdAt": "2026-04-02T09:03:28.932Z",
-      "updatedAt": "2026-04-23T00:38:45.218Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 15
     },
     {
       "id": "9647f7b5-e35b-42fc-a108-98aef5401678",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 16호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 16(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1531,20 +1452,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1563,32 +1474,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 16,
-      "createdAt": "2026-04-02T09:03:28.980Z",
-      "updatedAt": "2026-04-23T00:38:52.442Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 16
     },
     {
       "id": "3146e328-cb08-4458-ac15-c9ef1af999de",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "글램핑 17호실 [입실16시/퇴실13시]",
-      "nameEn": "Glamping 17(Check-in16:00/Out13:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[글램핑 입/퇴실 안내]\n- 입실 16시 / 퇴실 13시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[글램핑 이용 시 주의사항]\n- 개인 세면도구, 수건 지참 (제공X)\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "글램핑 [입실16시/퇴실13시]",
       "size": 16.53,
-      "sizePyeong": 5,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1598,20 +1511,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "roomtype",
-        "checkin": "16:00",
-        "checkout": "13:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1630,32 +1533,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "roomtype",
+        "checkin": "16:00",
+        "checkout": "13:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 17,
-      "createdAt": "2026-04-02T09:03:28.852Z",
-      "updatedAt": "2026-04-23T00:38:57.722Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 17
     },
     {
       "id": "2bbeddca-2c62-4442-8bdb-59fa2545f389",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "듀플렉스 1호실 [입실14시/퇴실11시]",
-      "nameEn": "Duplex 1(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "듀플렉스 [입실14시/퇴실11시]",
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1665,20 +1570,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1697,32 +1592,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 18,
-      "createdAt": "2026-04-02T09:03:28.902Z",
-      "updatedAt": "2026-04-23T00:39:07.144Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 18
     },
     {
       "id": "6af16083-5855-4235-8e6c-2c9d15fb9d08",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "듀플렉스 2호실 [입실14시/퇴실11시]",
-      "nameEn": "Duplex 2(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "듀플렉스 [입실14시/퇴실11시]",
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1732,20 +1629,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1764,32 +1651,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 19,
-      "createdAt": "2026-04-02T09:03:28.981Z",
-      "updatedAt": "2026-04-23T00:39:13.147Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 19
     },
     {
       "id": "dc1eb11a-c100-4424-9047-7e41a5cc0ca3",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "듀플렉스 3호실 [입실14시/퇴실11시]",
-      "nameEn": "Duplex 3(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "듀플렉스 [입실14시/퇴실11시]",
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1799,20 +1688,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1831,32 +1710,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 20,
-      "createdAt": "2026-04-02T09:03:28.929Z",
-      "updatedAt": "2026-04-23T00:39:19.585Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 20
     },
     {
       "id": "dd610289-3df1-4227-804b-8367a71e3852",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "리버사이드 1호실 [입실14시/퇴실11시]",
-      "nameEn": "Liverside 1(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "리버사이드 [입실14시/퇴실11시]",
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1866,20 +1747,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1898,32 +1769,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 21,
-      "createdAt": "2026-04-02T09:03:28.826Z",
-      "updatedAt": "2026-04-23T00:39:27.450Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 21
     },
     {
       "id": "8b92eb03-7282-4d55-a0d7-4ea21ca5aca3",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "리버사이드 2호실 [입실14시/퇴실11시]",
-      "nameEn": "Liverside 2(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "리버사이드 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1933,20 +1806,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1965,32 +1828,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 22,
-      "createdAt": "2026-04-02T09:07:27.051Z",
-      "updatedAt": "2026-04-23T00:39:34.427Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 22
     },
     {
       "id": "924949ca-4ea7-4972-8c09-8534411ee935",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "리버사이드 3호실 [입실14시/퇴실11시]",
-      "nameEn": "Liverside 3(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "리버사이드 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2000,20 +1865,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2032,32 +1887,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 23,
-      "createdAt": "2026-04-02T09:07:26.976Z",
-      "updatedAt": "2026-04-23T00:39:40.036Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 23
     },
     {
       "id": "2fb76151-13bb-4847-8712-4fec4df8a2d5",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "리버사이드 4호실 [입실14시/퇴실11시]",
-      "nameEn": "Liverside 4(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "리버사이드 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2067,20 +1924,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2099,32 +1946,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 24,
-      "createdAt": "2026-04-02T09:22:13.793Z",
-      "updatedAt": "2026-04-23T00:39:45.915Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 24
     },
     {
       "id": "8a7c9954-c1b1-425b-92ee-0037cf96996e",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "리버사이드 5호실 [입실14시/퇴실11시]",
-      "nameEn": "Liverside 5(Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "리버사이드 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2134,20 +1983,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2166,32 +2005,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 25,
-      "createdAt": "2026-04-02T09:22:13.801Z",
-      "updatedAt": "2026-04-23T00:39:52.062Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 25
     },
     {
       "id": "83872179-2212-4bbc-952b-7fa5fca18228",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "프라이빗 1호실 [입실14시/퇴실11시]",
-      "nameEn": "Private 1 (Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "프라이빗 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2201,20 +2042,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2233,32 +2064,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 26,
-      "createdAt": "2026-04-02T09:22:13.963Z",
-      "updatedAt": "2026-04-23T00:40:00.068Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 26
     },
     {
       "id": "029163e0-a384-4e92-8984-3383fc4648db",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "프라이빗 2호실 [입실14시/퇴실11시]",
-      "nameEn": "Private 2 (Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "프라이빗 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2268,20 +2101,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2300,32 +2123,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 27,
-      "createdAt": "2026-04-02T09:22:13.924Z",
-      "updatedAt": "2026-04-23T00:40:05.151Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 27
     },
     {
       "id": "ff011265-e9db-4ca4-b818-75c82fa7bd8f",
-      "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
-      "propertyName": "홍천 휴토피아 글램핑",
       "name": "프라이빗 3호실 [입실14시/퇴실11시]",
-      "nameEn": "Private 3 (Check-in 14:00/Out 11:00)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[펜션 객실 입/퇴실 안내]\n- 입실 14시 / 퇴실 11시\n※ 빠른입실, 늦은퇴실은 불가합니다\n※ 19시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가비(1박기준/현장결제)]\n- 전 객실 기준/최대인원 성인 기준 2명\n- 자녀 동반 한가족 최대 4인 이용가능\n- 중학생 이하 다자녀인 경우 5인까지 이용가능\n- 가족 성인 최대 4인(부모님 또는 자녀인 경우) 이용가능\n- 위 사항 외 추가인원 적용 불가 (직계 가족 외 성인3명 이상 등)\n- 추가인원 비용 : 5세 이상 1인 20,000원 (1박기준/현장결제) ",
       "group": "프라이빗 [입실14시/퇴실11시]",
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -2335,20 +2160,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "14:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2367,19 +2182,25 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "2f48bb13-2ee0-4f8b-a9e4-2307cd27a514",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "14:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 28,
-      "createdAt": "2026-04-02T09:22:13.886Z",
-      "updatedAt": "2026-04-23T00:40:10.154Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 28
     }
   ],
   "homepage": {
@@ -2393,7 +2214,8 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/logo/1775518583388-7is2q077d3b.png",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -2403,7 +2225,12 @@
       "description": "홍천 휴토피아, 자연 속에서 온전히 쉬어가는 프라이빗 휴식 공간",
       "keywords": "홍천휴토피아,홍천숙소,홍천프라이빗숙소,홍천여행,감성숙소추천"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -2417,101 +2244,115 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-zlidpv22vv.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "32712048-837d-41ae-b5dd-ccd2fa2e5f59",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840400-koori29q7jm.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "85aca293-7880-4e46-a110-c085323891c8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840400-gjr2kgl1ogb.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1273d42e-eff2-4a00-bfdc-1c1cf5f8ddc9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840400-bsafxsgzd0r.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "7f0a6318-703b-4822-9d7f-ff9cf777a00f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840400-d3y0ktwqs0s.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8f1d60b1-3ad1-4066-807e-823d6f4059b3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840400-n9ost2qpfwo.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1e0ec85e-41a8-4b06-8394-5d401210dbb3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-58ctwczz9ra.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f0383e61-90d3-452d-89c7-e814a1c34b89",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-t4h3lqdsxl.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "a2aa5f83-c869-4574-9a42-004faef88553",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-zechb0sdb9q.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0bffd73e-b5b7-4354-9eef-48b264efbe3b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-i3yzy3kn0ee.jpg",
                     "sortOrder": 9,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "bc1f6e9c-b3e7-4862-87c5-a33ac755a96a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-39q05urce34.jpg",
                     "sortOrder": 10,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8a09b0f2-5ecb-4401-b7e4-25c4e5710245",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-j526uef7yyp.jpg",
                     "sortOrder": 11,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1f990460-7f48-48b9-8104-d4159bb8f173",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-gemt4oscndo.jpg",
                     "sortOrder": 12,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "fbb02b83-85b7-43f4-aaf1-49a09fd5ec88",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_hero/1775204840401-08mptasp931.jpg",
                     "sortOrder": 13,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "홍천 휴토피아 글램핑"
               },
@@ -2523,10 +2364,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_closing/1775461020862-wwkarvrvrab.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -2538,44 +2380,48 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_essence/1775458824649-ugzg97r5xb7.jpg",
                     "sortOrder": 0,
                     "description": "홍천강을 한눈에 담을 수 있는 리버뷰로 자연의 여유를 느껴보세요.\n개별 바베큐부터 야외 수영장, 불멍까지 다양한 부대시설이 준비되어 있습니다.\n머무시는 동안 취향에 맞는 휴식을 즐길 수 있습니다.",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "348520bb-56b7-485a-80ac-1025bdf26c6b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_essence/1775458824649-bddr9a9gwfd.jpg",
                     "sortOrder": 1,
                     "description": "사계절 내내 이용 가능한 자연 속 휴양 공간 홍천 휴토피아\n홍천강의 푸른 물줄기와 산새, 팔봉산의 수려한 풍경이 어우러져\n머무는 것만으로도 마음의 안정을 느낄 수 있습니다.\n친구, 연인, 가족과 함께 특별한 휴식과 추억을 만들어보세요.",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "631c558b-3cd6-4761-b327-e7eebea34f9e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_essence/1775458824649-ium9601ry78.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f2e955c0-6349-4004-ae3e-e82c556e8ef1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/index_essence/1775458824649-8sit5813fe.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "Relax in nature \nat Hongcheon \nHuttopia"
               },
               "gallery": {
                 "title": "",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image"
               },
               "signature": {
                 "title": "",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image"
               }
             }
@@ -2592,21 +2438,24 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/directions_hero/1775461673712-1avujmg05nw.jpg",
                     "sortOrder": 0,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "cc50961c-6f45-4df6-b884-e041acf0ec64",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/directions_hero/1775461673722-pnhuu1ksi2n.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "403317f3-f158-4308-b81e-c70e0145b8b7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/directions_hero/1775461673716-2xyr7l82jok.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -2628,21 +2477,24 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_hero/1775461542311-hle6ugmtkqj.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9299ca3b-7557-4f75-8224-625cda72ac60",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_hero/1775461542311-7vmn800flm3.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "3d8af9d7-07ef-487e-909a-b0257887427a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/main_hero/1775461542311-vspx77lggl.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": " "
@@ -2746,8 +2598,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -2759,21 +2611,24 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/reservation_hero/1775462027876-pghc828rjx.jpg",
                     "sortOrder": 0,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "fbcadf37-03a8-443d-b61c-e799d9a30d3d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/reservation_hero/1775462027877-8arlu4aa4ai.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "46ede858-ac30-4d9b-a4af-1eab4473aee5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/reservation_hero/1775462027877-57tt4alx8a3.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -2785,7 +2640,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9bed22b5-71a0-48e1-b515-ff5a6f8f375b/reservation_about/1775522638396-934hf7tak8t.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": " "
@@ -2821,7 +2677,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "property": {
         "images": [
@@ -2831,6 +2687,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -2839,6 +2696,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2847,6 +2705,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2855,6 +2714,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2863,6 +2723,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2871,6 +2732,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2879,6 +2741,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2887,6 +2750,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2895,6 +2759,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2903,6 +2768,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2911,6 +2777,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2919,6 +2786,7 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2927,6 +2795,7 @@
             "sortOrder": 11,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2935,6 +2804,7 @@
             "sortOrder": 12,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2943,6 +2813,7 @@
             "sortOrder": 13,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2951,6 +2822,7 @@
             "sortOrder": 14,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2959,6 +2831,7 @@
             "sortOrder": 15,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2967,6 +2840,7 @@
             "sortOrder": 16,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2975,6 +2849,7 @@
             "sortOrder": 17,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2983,6 +2858,7 @@
             "sortOrder": 18,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
