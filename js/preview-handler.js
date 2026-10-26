@@ -197,6 +197,9 @@ class PreviewHandler {
             'localhost',              // 로컬 개발 환경
             'admin.sinbibook.com',    // 운영 환경
             'admin.sinbibook.xyz',    // 개발 환경
+            'backoffice.sinbibook.com', // 백오피스 운영 환경
+            'backoffice.sinbibook.xyz',  // 백오피스 개발 환경
+            'backoffice.sinbibook.dev',   // 백오피스 dev 환경
             'sinbibook.github.io',    // GitHub Pages
             'file://',                // 로컬 파일 시스템
             'null'                    // iframe null origin
@@ -378,7 +381,9 @@ class PreviewHandler {
             'room': 'room.html',
             'facility': 'facility.html',
             'reservation': 'reservation.html',
-            'directions': 'directions.html'
+            'directions': 'directions.html',
+            'nearbyAttractions': 'nearby-attractions.html',
+            'layoutMap': 'layout-map.html'
         };
 
         const targetPage = pageMap[messageData.page];
@@ -471,6 +476,16 @@ class PreviewHandler {
                     mapper = new DirectionsMapper();
                 }
                 break;
+            case 'nearbyAttractions':
+                if (window.NearbyAttractionsMapper) {
+                    mapper = new NearbyAttractionsMapper();
+                }
+                break;
+            case 'layoutMap':
+                if (window.LayoutMapMapper) {
+                    mapper = new LayoutMapMapper();
+                }
+                break;
             default:
                 return;
         }
@@ -481,7 +496,12 @@ class PreviewHandler {
             mapper.isDataLoaded = true;
 
             // 기존 매핑 로직 실행 (완료 대기)
-            await mapper.mapPage();
+            // 한 섹션의 오류가 나머지 매핑(지도/헤더/푸터)까지 중단시키지 않도록 방어
+            try {
+                await mapper.mapPage();
+            } catch (error) {
+                console.error(`[PreviewHandler] ${currentPage} mapPage failed:`, error);
+            }
 
         }
 
@@ -663,6 +683,7 @@ class PreviewHandler {
             switch (section) {
                 case 'hero':
                     mapper.mapHeroSection();
+                    if (typeof window.initHeroSlider === 'function') window.initHeroSlider();
                     break;
                 case 'essence':
                     mapper.mapEssenceSection();
@@ -767,12 +788,6 @@ class PreviewHandler {
                     case 'usageGuide':
                         mapper.mapUsageSection();
                         break;
-                    case 'reservationGuide':
-                        mapper.mapReservationGuideSection();
-                        break;
-                    case 'checkInOut':
-                        mapper.mapCheckInOutSection();
-                        break;
                     case 'refund':
                         mapper.mapRefundSection();
                         break;
@@ -832,6 +847,8 @@ class PreviewHandler {
         if (path.endsWith('/facility.html')) return 'facility';
         if (path.endsWith('/reservation.html')) return 'reservation';
         if (path.endsWith('/directions.html')) return 'directions';
+        if (path.endsWith('/nearby-attractions.html')) return 'nearbyAttractions';
+        if (path.endsWith('/layout-map.html')) return 'layoutMap';
 
         // 루트 경로 또는 기본값으로 index 처리
         return 'index';
@@ -908,7 +925,9 @@ class PreviewHandler {
             'room': 'RoomMapper',
             'facility': 'FacilityMapper',
             'reservation': 'ReservationMapper',
-            'directions': 'DirectionsMapper'
+            'directions': 'DirectionsMapper',
+            'nearbyAttractions': 'NearbyAttractionsMapper',
+            'layoutMap': 'LayoutMapMapper'
         };
 
         const mapperClass = mapperConfig[currentPage];

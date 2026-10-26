@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-10-26T01:40:41.230045200Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-10-26T01:41:05.752025544Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -9,6 +9,7 @@
   "property": {
     "id": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "name": "홍천 휴토피아 글램핑&펜션",
+    "nameEn": "Hongcheon Huttopia Glamping",
     "description": "프라인빗한 객실과 글램핑의 조화 홍천 휴토피아 글램핑",
     "subtitle": "",
     "address": "강원특별자치도 홍천군 서면 팔봉산로 974 휴토피아글램핑",
@@ -25,6 +26,12 @@
     "reservationGuide": "- 객실별 입/퇴실 시간이 상이하오니 반드시 확인 요망\n- 글램핑 객실은 개인세면도구, 수건 지참(제공X)\n- 겨울철 개인 전기난방 용품은 이용 불가\n- 예약 변경은 취소에 해당하여 환불 규정 동일 적용\n- 블루투스 스피커, 노래방 마이크 등 사용금지\n- 객실 최대 기준 인원을 초과하여 입실 불가\n- 밤 10시 이후에는 고성방가, 게임 등 방음에 유의\n- 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 가능\n- 객실 내 해산물 및 육류, 튀김류 조리 불가\n- 전 객실 금연 구역이며 화재 위험이 있는 촛불 및 폭죽, 개인 화기 용품 금지\n- 수영장 운영은 날씨 또는 펜션 상황에 따라 변동 가능\n- 보호자를 동반하지 않은 미성년자(만 19세 미만)는 입실 불가",
     "province": "강원특별자치도",
     "city": "홍천군",
+    "domain": "huttopia.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/35452170",
+    "ybsId": "79971",
+    "tripPropertyId": "11609",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "흡연구역(지정장소)",
       "편의점/매점",
@@ -48,8 +55,7 @@
       "businessEmail": "gamawatch@korea.com",
       "businessType": "corporate",
       "businessCategory": "숙박 및 음식점업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -357,14 +363,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Hongcheon Huttopia Glamping",
-    "domain": "huttopia.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/35452170",
-    "ybsId": "79971",
-    "tripPropertyId": "11609",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
@@ -4866,6 +4865,7 @@
     }
   ],
   "homepage": {
+    "id": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b",
     "domain": "huttopia.kr",
     "templateType": "fullpage_visual",
     "images": [
@@ -5321,40 +5321,14 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         },
         "landing": {
           "sections": [ ]
-        }
-      },
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
-            "woff2": null,
-            "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "gyeonggimillenniumbackground",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
-            "family": "GyeonggiMillenniumBackground"
-          }
-        },
-        "color": {
-          "primary": "#e8ebe6",
-          "secondary": "#637156"
         }
       },
       "popup": {
@@ -5418,7 +5392,34 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          }
+        },
+        "color": {
+          "primary": "#e8ebe6",
+          "secondary": "#637156"
+        }
+      },
       "property": {
+        "name": "홍천 휴토피아 글램핑&펜션",
         "images": [
           {
             "id": "486b708e-ac5f-4f8e-8a9d-747d64ec897b",
@@ -5601,7 +5602,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "홍천 휴토피아 글램핑&펜션",
         "nameEn": "Hongcheon Huttopia Glamping"
       },
       "roomtypes": [
@@ -9646,7 +9646,6 @@
       "footer": {
         "ruralStayMark": null
       }
-    },
-    "id": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
+    }
   }
 }
