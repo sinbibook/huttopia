@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.56.0",
-    "generatedAt": "2026-11-27T06:38:13.548449713Z",
+    "version": "1.57.0",
+    "generatedAt": "2026-11-27T06:52:44.470106805Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ec1346a-8f16-4bc6-a685-3bcb8e4f8b44",
     "homepageId": "9bed22b5-71a0-48e1-b515-ff5a6f8f375b"
@@ -80,7 +80,7 @@
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 운영 계절: 하절기\n- 운영 기간: (운영종료)\n- 온도: 냉수\n- 이용 요금: 무료 \n- 이용 시간: 10:00 ~ 19:00\n- 이용 복장: 수영복,모자 착용\n- 수영장 크기: 13m x 5m x 90cm\n- 우천 시 이용 가능\n※ 다이빙 금지 (물 깊이 90cm)\n※ 영유아 및 어린이는 보호자와 함께 수영장 입장 가능\n※ 음주 후 수영장 사용 불가",
-        "displayOrder": 2,
+        "displayOrder": 0,
         "images": [
           {
             "id": "01a21b1a-1e97-765e-bb77-20762135effd",
@@ -117,24 +117,48 @@
         ]
       },
       {
-        "id": "0672d280-0b4d-4dd8-a935-1c3fc7009e0e",
-        "name": "휴토피아&캐빈 전용 카페",
-        "description": "펜션 내 카페가 있습니다.",
-        "usageGuide": "- 메뉴 : 아메리카노 (ICE, HOT)\n- 매점/카페 운영시간 : 09:00~19:00",
-        "displayOrder": 3,
+        "id": "1526113d-b42f-4c0d-8aca-60fe9a313d6a",
+        "name": "개별수영장",
+        "description": "",
+        "usageGuide": "- 이용 객실: 스페이스 캐빈 객실\n- 수영장 미온수 이용기간 : 9/21 ~ 10/20\n- 미온수 온도 : 27도~30도 (미지근한 수온)\n- 이용 요금: 미온수 50,000원 (1박기준/현장결제)\n※ 2-3일전 유선으로 사전 예약 필수\n※ 미온수 신청 없을 경우 기본 온도(냉수)로 사용 가능\n※ 26년 10월 20일 이후 수영장 운영 종료",
+        "displayOrder": 1,
         "images": [
           {
-            "id": "93d3e5db-7269-4e54-908c-7be36a94ccbf",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0672d280-0b4d-4dd8-a935-1c3fc7009e0e/main/1775458461298-m5ub2s1t8tb.jpg",
+            "id": "01a21bc6-e5ea-7462-b417-a8f48741b77f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1526113d-b42f-4c0d-8aca-60fe9a313d6a/main/1795762348663-x24sc6gmc4.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "fd4f2499-21bb-4d77-b424-6d585880bdb8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0672d280-0b4d-4dd8-a935-1c3fc7009e0e/main/1775458461298-uc7ypcl9hk9.jpg",
+            "id": "01a21bc6-e62b-7145-8708-bf7b852359a6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1526113d-b42f-4c0d-8aca-60fe9a313d6a/main/1795762348635-lnt3f2ld9w.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-e600-7dd1-a883-0fe2f30878ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1526113d-b42f-4c0d-8aca-60fe9a313d6a/main/1795762348635-x2i23c0cm8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-e5eb-7378-b427-57d97b2eddb4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1526113d-b42f-4c0d-8aca-60fe9a313d6a/main/1795762348635-rer5b855mu.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-e5ee-7544-9711-55912983534d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1526113d-b42f-4c0d-8aca-60fe9a313d6a/main/1795762348661-eouy9yvypv.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -142,40 +166,195 @@
         ]
       },
       {
-        "id": "e3c9ced6-f166-452d-b5f3-8872f26bf832",
-        "name": "휴토피아 매점",
-        "description": "글램핑 캠핑장에 꼭 필요한 필수 아이템을 준비하고 있습니다.",
-        "usageGuide": "- 매점 : 음료,과자, 맥주, 라면 등 \n- 기타 : 수건,비누,치약, 치솔 등 개인 소지품도 준비하고 있습니다.\n- 운영시간 : 09:00~19:00",
-        "displayOrder": 4,
+        "id": "883de11e-f968-4a4d-8709-66d7f81ef24b",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 이용 장소: 개별 테라스\n- 글램핑 숯 세트 : 숯+석쇠+이소가스 17,000원(1박기준/현장결제)\n- 펜션 숯 세트 : 숯+석쇠 14,000원(1박기준/현장결제)\n- 바베큐 이용 시간: 22:00 이전\n※ 22:00 이후 테라스 이용불가(장작/바베큐 및 야외취식)",
+        "displayOrder": 2,
         "images": [
           {
-            "id": "2198b249-6253-477f-b47c-cdaa2c8f6348",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-fqw9afmoh3.jpg",
+            "id": "01a21bc6-e951-7641-93f3-2853d91fce05",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762349777-iny29sna1p.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "c15c04b3-6f24-42ba-a5a2-4895c8f36d5d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-ohw4wtsszf.jpg",
+            "id": "01a21bc6-e93e-7e97-8023-88cdf2e1ec94",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762349850-zum31gknng.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "af3519fd-5fd2-4b86-b729-08b93b55c955",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-aj8wv5vttsv.jpg",
+            "id": "01a21bc6-eafd-7382-8750-b5fa64171632",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762349980-ghxfbckfs6.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "d0b92159-5f8f-4128-b520-841fc369039d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3c9ced6-f166-452d-b5f3-8872f26bf832/main/1775458477928-1u93tr44ie4.jpg",
+            "id": "01a21bc6-eb0f-7617-958e-c9fd4503c0c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762350223-jeyx945gwl.jpg",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-eaeb-70a2-b5fe-bf331933b3f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762350108-2w0dulj0qi.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-ec5f-75f7-9031-9195bc85be18",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762350222-4vv7a5u55u.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-eafe-738b-9065-74cd65c492b3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/883de11e-f968-4a4d-8709-66d7f81ef24b/main/1795762350163-koe4epwut6.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "021112f8-47ea-41ba-b09f-8f79eedbfea1",
+        "name": "불멍",
+        "description": "",
+        "usageGuide": "- 이용 객실: 글램핑, 펜션 객실\n- 이용 요금: 장작 1망 10,000원 (약 10kg) (1박기준/현장결제)\n※ 바람이 많이 불 경우, 화재 위험으로 장작 이용 불가\n※ 스페이스캐빈 바닥소재 사유로 불멍 불가",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a21bc6-ef7d-72b4-8ed8-47d15fafd522",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021112f8-47ea-41ba-b09f-8f79eedbfea1/main/1795762351420-r9u1u5e1rg.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-ef2e-7d3f-bda0-47ca8fc6c43a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021112f8-47ea-41ba-b09f-8f79eedbfea1/main/1795762351415-ykcg69z1s6.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-ef91-786d-b5e1-6d7d6ea66f79",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021112f8-47ea-41ba-b09f-8f79eedbfea1/main/1795762351494-meg4j29n5w.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-eff4-735b-af39-be4f5bd467c8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021112f8-47ea-41ba-b09f-8f79eedbfea1/main/1795762351433-litfwyy7h5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "ec7bd705-ca2d-4af9-afe3-fa7848cdf113",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "[어린이 놀이터]\n- 글램핑장에는 아이들을 위한 놀이터 구비 \n- 잔디정원 : 흔들그네, 시소, 어린이 그네 등 \n- 물놀이시설 : 어른과 함께 수영장 이용 가능\n※ 야외 놀이터나, 수영장 이용시 반드시 부모님과 함께 이용해 주시기 바랍니다.",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "01a21bc6-f523-7d5f-86bf-64d3f64cfb61",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec7bd705-ca2d-4af9-afe3-fa7848cdf113/main/1795762352975-4v4xq2jnml.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f4f5-790a-8411-263470036636",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec7bd705-ca2d-4af9-afe3-fa7848cdf113/main/1795762352970-jadd9w185p.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f569-7df8-9a34-08cffe17a07b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec7bd705-ca2d-4af9-afe3-fa7848cdf113/main/1795762352971-m7q2wf0vfo.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "8d91b014-d910-4a36-b8ed-4a971d74c255",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "[휴토피아 매점&카페]\n- 펜션 내 카페가 있습니다. \n- 매점 : 음료, 과자, 맥주, 라면 등, 수건,비누,치약, 치솔 등 개인 소지품 판매 \n- 매점/카페 운영시간 : 09:00~19:00",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "01a21bc6-f1e5-772c-ab83-abd86245cdd4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352257-m72wort9d2.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f26a-72e8-befc-12a0d52e399c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352229-39k5dcth82.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f2ea-7583-a1b5-d961fbf36de9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352267-jwchwpkksp.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f200-7dfd-84a0-9a9269e80c97",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352238-qr0g4i607k.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f26b-72e8-b1f0-83730a366025",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352301-gz9fvowrk6.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21bc6-f1c1-724d-9698-7c85de22382d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8d91b014-d910-4a36-b8ed-4a971d74c255/main/1795762352300-5n28whip71.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
